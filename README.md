@@ -33,7 +33,7 @@ While memorability is a stable, content-driven characteristic of images, its neu
 ## 📊 Data Availability
 The neuroimaging and behavioral data analyzed in this repository were provided by Dr. Wilma Bainbridge for research and educational purposes.
 
-Per the request of the first author, the raw and processed data are not publicly available for redistribution to ensure data privacy and adherence to original sharing agreements.
+Per the request of the first author, the raw data are not publicly available for redistribution to ensure data privacy and adherence to original sharing agreements.
 
 For those interested in the original dataset or seeking to replicate these findings, please refer to the primary publication:
 

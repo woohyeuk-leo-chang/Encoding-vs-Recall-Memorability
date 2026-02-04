@@ -2,6 +2,8 @@
 
 This repository contains the computational pipeline used to investigate how the human brain represents **visual memorability**—an intrinsic stimulus property predicting how likely an image is to be remembered. By applying **Multivariate Pattern Analysis (MVPA)** and **Representational Similarity Analysis (RSA)** to high-resolution **7-Tesla fMRI data**, this project maps the transformation of neural representations from encoding to recall.
 
+For a detailed walkthrough of the theoretical background, methodology, and results of this analysis, please refer to the Final Project Report.
+
 ## 🧠 Project Overview
 
 While memorability is a stable, content-driven characteristic of images, its neural signature during active recall remains less understood than during initial encoding. This project explores:
